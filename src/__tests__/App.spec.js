@@ -58,7 +58,6 @@ describe("Likes", () => {
         techs: ["React Native", "Node.js"],
         likes: 1,
       });
-      console.log(repositoryId)
 
     await actWait();
 
